@@ -1,16 +1,19 @@
-### Hi there 👋
+### Olá Pessoal, sou o Rafael!!! 👋
 
-<!--
-**Nunes-Rafael/Nunes-Rafael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente trabalho com suporte, mas migrando para DevOps.
+- 🌱 Estou estudando Docker no momento
+- 🚀 Tenho conhecimento em Linux, Vagrant, certificação AZ-900, certificações Cisco CCNA 1, CCNA 2, CCNA 3, CCNA 4 e ITE Essentials
+- 👨‍🎓 Fazendo faculdade de Redes de Computadores na FATEC Osasco, formado em Técnico em Redes de Computadores pelo ITB Professor Munir José.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/Nunes-Rafael">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nunes-Rafael&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nunes-Rafael&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+  ##
+  
+<div> 
+    <a href="https://www.linkedin.com/in/rafaeloliveira-nunes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:nunes.rafael2000@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<\div> 
