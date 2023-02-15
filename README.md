@@ -1,9 +1,9 @@
 ### Olá Pessoal, sou o Rafael!!! 👋
 
-- 🔭 Atualmente trabalho com suporte, mas migrando para DevOps.
-- 🌱 Estou estudando Ansible no momento
+- 🔭 Atualmente trabalho como suporte, mas migrando para DevOps.
+- 🌱 Estou me especializando em Ansible e AWS no momento.
 - 🚀 Tenho conhecimento em Linux, Vagrant, Docker e Docker compose, certificação AZ-900, certificações Cisco CCNA 1, CCNA 2, CCNA 3, CCNA 4 e ITE Essentials
-- 👨‍🎓 Fazendo faculdade de Redes de Computadores na FATEC Osasco, formado em Técnico em Redes de Computadores pelo ITB Professor Munir José.
+- 👨‍🎓 Fazendo faculdade de tecnologia em Cloud Computing na UniFECAF, formado em Técnico em Redes de Computadores pelo ITB Professor Munir José.
 
 <div align="center">
   <a href="https://github.com/Nunes-Rafael">
