@@ -7,8 +7,7 @@
 
 <div align="center">
   <a href="https://github.com/Nunes-Rafael">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nunes-Rafael&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nunes-Rafael&layout=compact&langs_count=7&theme=dark"/>
+  <![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nunes-Rafael&show=reviewstrue&theme=radical,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,)>
 </div>
   
   ##
