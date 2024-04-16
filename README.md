@@ -5,6 +5,8 @@
 - 🚀 Tenho conhecimento em Linux, Vagrant, Docker e Docker compose, certificação AZ-900, AWS Cloud Practitioner, certificações Cisco CCNA 1, CCNA 2, CCNA 3, CCNA 4 e ITE Essentials pela Cisco.
 - 👨‍🎓 Fazendo faculdade de Redes de Computadores na Impacta, formado em Técnico em Redes de Computadores pelo ITB Professor Munir José.
 
+<br/>
+<br/>
 <div align="center">
 <picture>
   <source
@@ -15,8 +17,7 @@
 </picture>
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=Nunes-Rafael&layout=compact&langs_count=8" />
  </div>
-
-  ##
+<br/>
   
 <div align="start" height="100px">
     <a href="https://www.linkedin.com/in/rafaeloliveira-nunes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
