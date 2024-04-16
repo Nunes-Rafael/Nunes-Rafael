@@ -13,10 +13,8 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Nunes-Rafael&show_icons=true" />
 </picture>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nunes-Rafael&repo=convoychat" />
 </div>
-  
-  ##
   
 <div> 
     <a href="https://www.linkedin.com/in/rafaeloliveira-nunes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
