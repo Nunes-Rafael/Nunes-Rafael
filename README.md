@@ -13,7 +13,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Nunes-Rafael&show_icons=true" />
 </picture>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nunes-Rafael&repo=convoychat" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nunes-Rafael />
 </div>
   
 <div> 
