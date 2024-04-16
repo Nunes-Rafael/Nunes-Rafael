@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://github.com/Nunes-Rafael">
-  <![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nunes-Rafael&show=reviewstrue&theme=radical,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,)>
+  <img![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nunes-Rafael&show=reviewstrue&theme=radical,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,)>
 </div>
   
   ##
