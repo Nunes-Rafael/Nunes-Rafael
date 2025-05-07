@@ -1,6 +1,6 @@
 ## Olá Pessoal, sou o Rafael!!! 👋
-Tenho 24 anos, trabalho na área de TI há 5 anos, há 4 anos com Infraestrutura e Suporte, e há 1 ano com Cybersegurança.
-Atualmente trabalho como Analista de Cybersegurança JR na Telefonica Tech Cyber, mas migrando para DevOps & Cloud Computing.
+Tenho 25 anos, trabalho na área de TI há 6 anos, há 4 anos com Infraestrutura e Suporte, há 1 ano com Cybersegurança e 1 ano com AWS.
+Atualmente trabalho como Analista de Cloud pela Enkel, porém, continuo meus estudos com foco em melhor entendimento em Cloud AWS e DevOps.
 
 ## 👨‍🎓 Cursos e Certificações
 ### :globe_with_meridians: Certificações
