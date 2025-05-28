@@ -1,4 +1,4 @@
-## ?? Olá, eu sou o Rafael Nunes!
+## 👋 Olá, eu sou o Rafael Nunes!
 
 Sou profissional da área de tecnologia com formação técnica e graduação em andamento em Redes de Computadores. Tenho experiência prática em suporte, infraestrutura e segurança da informação, atuando em ambientes corporativos com foco em soluções eficientes, seguras e escaláveis.
 
@@ -8,23 +8,23 @@ Busco oportunidades como **DevOps Júnior** ou **Analista de Cloud**, onde possa
 
 ---
 
-## ?? Certificações & Cursos
+## 🧠 Certificações & Cursos
 
-### ?? Certificações
+### 🏅 Certificações
 - [AWS Cloud Practitioner](https://www.credly.com/badges/700c0f92-c207-4c8b-82d3-29aa0805e1f7/)
 - [Azure Fundamentals (AZ-900)](https://www.credly.com/badges/81496a69-b977-4b0c-b186-1169c7fc6db3)
 - Cisco CCNA 1 a 4 (Introduction to Networks até Connecting Networks)
 - IT Essentials (PC Hardware and Software)
 
-### ?? Cursos
+### 📘 Cursos
 - DevOps Pro (em andamento)
 - ECMS1 & ECMS2 (Cisco Meraki)
 
 ---
 
-## ?? Tecnologias que utilizo
+## 💻 Tecnologias que utilizo
 
-### ?? Cloud & DevOps
+### 🌐 Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -32,12 +32,12 @@ Busco oportunidades como **DevOps Júnior** ou **Analista de Cloud**, onde possa
 ![Vagrant](https://img.shields.io/badge/Vagrant-1563FF?style=for-the-badge&logo=vagrant&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### ?? Monitoramento & Segurança
+### 🔍 Monitoramento & Segurança
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Ubiquiti](https://img.shields.io/badge/Ubiquiti-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white)
 
-### ?? Desenvolvimento e Ferramentas
+### 💻 Desenvolvimento e Ferramentas
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -46,7 +46,7 @@ Busco oportunidades como **DevOps Júnior** ou **Analista de Cloud**, onde possa
 
 ---
 
-## ?? Tecnologias em estudo
+## 🚀 Tecnologias em estudo
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -55,13 +55,13 @@ Busco oportunidades como **DevOps Júnior** ou **Analista de Cloud**, onde possa
 
 ---
 
-## ?? Formação Acadêmica
+## 🎓 Formação Acadêmica
 - Tecnólogo em Redes de Computadores – Faculdade Impacta (em andamento)
 - Técnico em Redes de Computadores – Instituto Técnico de Barueri
 
 ---
 
-## ?? GitHub Insights
+## 📈 GitHub Insights
 
 <div align="start">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=Nunes-Rafael&show_icons=true&theme=default" />
@@ -70,7 +70,7 @@ Busco oportunidades como **DevOps Júnior** ou **Analista de Cloud**, onde possa
 
 ---
 
-## ?? Contato
+## 📬 Contato
 
 <div align="start">
   <a href="https://www.linkedin.com/in/rafael-onunes" target="_blank">
