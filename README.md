@@ -47,6 +47,8 @@ Busco oportunidades como DevOps Júnior ou Analista de Cloud, onde possa contrib
 
 ## ✉️ Contatos
 <div align="start" height="100px">
-    <a href="https://www.linkedin.com/in/rafaeloliveira-nunes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-    <a href = "mailto:nunes.rafael2000@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/rafaeloliveira-nunes" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href = "mailto:nunes.rafael2000@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
