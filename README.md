@@ -1,10 +1,12 @@
 ## 👋 Olá, eu sou o Rafael Nunes!
 
-Sou profissional da área de tecnologia com formação técnica e graduação em andamento em Redes de Computadores. Tenho experiência prática em suporte, infraestrutura e segurança da informação, atuando em ambientes corporativos com foco em soluções eficientes, seguras e escaláveis.
+Analista de Cloud com experiência prática na sustentação e operação de ambientes críticos em nuvem.
 
-Atualmente, direciono minha carreira para DevOps e Cloud, com foco em automação, infraestrutura como código (IaC), pipelines CI/CD e ambientes em nuvem. Estou cursando uma formação prática em DevOps, onde aplico ferramentas como Docker, Terraform, Kubernetes, Jenkins, GitHub Actions, Grafana e Prometheus, além de aprofundar conhecimentos em AWS e Azure.
+Atuo com foco em confiabilidade, automação e escalabilidade, apoiando times de desenvolvimento e operações em ambientes produtivos, usando ferramentas como Azure DevOps, Kubernetes (EKS), Terraform, Docker e GitHub Actions. Tenho forte base em redes e segurança da informação, além de familiaridade com práticas de observabilidade usando Grafana, Prometheus e ferramentas nativas da cloud.
 
-Busco oportunidades como **DevOps Júnior** ou **Analista de Cloud**, onde possa aplicar e evoluir minhas habilidades em automação e confiabilidade de sistemas.
+Sou formado como técnico em Redes de Computadores, graduando em nível superior pela Faculdade Impacta, e possuo certificações como AWS Cloud Practitioner, Azure Fundamentals (AZ-900) e Cisco CCNA (módulos 1 a 4).
+
+Estou em constante evolução prática na área de DevOps & Cloud, buscando contribuir em projetos com alta disponibilidade, infraestrutura como código (IaC), pipelines CI/CD e práticas modernas de engenharia de confiabilidade (SRE).
 
 ---
 
