@@ -1,12 +1,14 @@
 ## 👋 Olá, eu sou o Rafael Nunes!
 
-Analista de Cloud com experiência prática na sustentação e operação de ambientes críticos em nuvem.
+Especialista em tecnologia unindo o rigor da infraestrutura de nuvem com o potencial da Inteligência Artificial.
 
 Atuo com foco em confiabilidade, automação e escalabilidade, apoiando times de desenvolvimento e operações em ambientes produtivos, usando ferramentas como Azure DevOps, Kubernetes (EKS), Terraform, Docker e GitHub Actions. Tenho forte base em redes e segurança da informação, além de familiaridade com práticas de observabilidade usando Grafana, Prometheus e ferramentas nativas da cloud.
 
+Paralelamente à infraestrutura, oriento e construo sistemas multi-agentes de IA (Claude Code) para automatizar todo o ciclo de vida de operações técnicas — de provisionamento de infraestrutura a gestão de tarefas e produtividade.
+
 Sou formado como técnico em Redes de Computadores, graduando em nível superior pela Faculdade Impacta, e possuo certificações como AWS Cloud Practitioner, Azure Fundamentals (AZ-900) e Cisco CCNA (módulos 1 a 4).
 
-Estou em constante evolução prática na área de DevOps & Cloud, buscando contribuir em projetos com alta disponibilidade, infraestrutura como código (IaC), pipelines CI/CD e práticas modernas de engenharia de confiabilidade (SRE).
+Busco oportunidades como Engenheiro DevOps/Cloud ou Engenheiro de Orquestração de Agentes de IA, onde eu possa aplicar excelência operacional e inovação para escalar negócios.
 
 ---
 
@@ -19,19 +21,19 @@ Estou em constante evolução prática na área de DevOps & Cloud, buscando cont
 - IT Essentials (PC Hardware and Software)
 
 ### 📘 Cursos
-- DevOps Pro (em andamento)
+- DevOps Na Nuvem (em andamento)
 - ECMS1 & ECMS2 (Cisco Meraki)
 
 ---
 
 ## 🤖 Automação com Agentes de IA
 
-Além da atuação em Cloud & DevOps, oriento a operação interna da minha empresa (Anama Tech) com um squad de agentes de IA rodando sobre Claude Code, orquestrando automações que substituem trabalho manual repetitivo em infraestrutura e gestão operacional. Dois exemplos:
+Projeto pessoal: orquestro um sistema multi-agente rodando sobre Claude Code, cada agente especializado numa fase distinta do trabalho técnico. Dois exemplos:
 
-- **🔧 Itachi** — agente de DevOps: provisiona e mantém infraestrutura como código (Terraform), gerencia recursos AWS, containers Docker, proxy reverso (Caddy) e pipelines de CI/CD.
-- **📋 Yami** — agente de produtividade: organiza backlog de tarefas e executa demandas táticas do dia a dia da operação.
+- **🔧 Itachi — Agente de DevOps (Arquiteto + Engenheiro)**: opera em dois modos. Como *Architect*, planeja e analisa antes de agir — desenha o plano de infraestrutura (Terraform, AWS) e só avança com aprovação explícita. Como *Engineer*, executa o plano com disciplina (`fmt`, `validate`, `plan`, `apply`), cobrindo Docker, Caddy, Kubernetes e pipelines de CI/CD.
+- **📋 Yami — Agente de Produtividade Pessoal**: organiza backlog de tarefas, ideias soltas e prioridades do dia a dia, transformando pedidos vagos em checklists e artefatos executáveis.
 
-É uma forma prática de unir a base técnica de DevOps/Cloud com engenharia de automação orientada a IA, aplicada em produção no meu próprio negócio.
+É uma forma prática de unir a base técnica de DevOps/Cloud com engenharia de automação orientada a IA — arquitetura de agentes, definição de papéis, disciplina de aprovação antes de ação em infraestrutura real.
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge)
 ![Automação](https://img.shields.io/badge/AI_Automation-4B0082?style=for-the-badge)
@@ -74,15 +76,6 @@ Além da atuação em Cloud & DevOps, oriento a operação interna da minha empr
 ## 🎓 Formação Acadêmica
 - Tecnólogo em Redes de Computadores – Faculdade Impacta (em andamento)
 - Técnico em Redes de Computadores – Instituto Técnico de Barueri
-
----
-
-## 📈 GitHub Insights
-
-<div align="start">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Nunes-Rafael&show_icons=true&theme=default" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nunes-Rafael&layout=compact&langs_count=8" />
-</div>
 
 ---
 
