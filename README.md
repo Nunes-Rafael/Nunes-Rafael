@@ -4,7 +4,7 @@ Especialista em tecnologia unindo o rigor da infraestrutura de nuvem com o poten
 
 Atuo com foco em confiabilidade, automação e escalabilidade, apoiando times de desenvolvimento e operações em ambientes produtivos, usando ferramentas como Azure DevOps, Kubernetes (EKS), Terraform, Docker e GitHub Actions. Tenho forte base em redes e segurança da informação, além de familiaridade com práticas de observabilidade usando Grafana, Prometheus e ferramentas nativas da cloud.
 
-Paralelamente à infraestrutura, oriento e construo sistemas multi-agentes de IA (Claude Code) para automatizar todo o ciclo de vida de operações técnicas — de provisionamento de infraestrutura a gestão de tarefas e produtividade.
+Paralelamente à infraestrutura, oriento e construo sistemas multi-agentes de IA (Claude Code) para automatizar todo o ciclo de vida de operações técnicas de provisionamento de infraestrutura a gestão de tarefas e produtividade.
 
 Sou formado como técnico em Redes de Computadores, graduando em nível superior pela Faculdade Impacta, e possuo certificações como AWS Cloud Practitioner, Azure Fundamentals (AZ-900) e Cisco CCNA (módulos 1 a 4).
 
