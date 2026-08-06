@@ -24,20 +24,6 @@ Estou em constante evolução prática na área de DevOps & Cloud, buscando cont
 
 ---
 
-## 🤖 Automação com Agentes de IA
-
-Além da atuação em Cloud & DevOps, oriento a operação interna da minha empresa (Anama Tech) com um squad de agentes de IA rodando sobre Claude Code, orquestrando automações que substituem trabalho manual repetitivo em infraestrutura e gestão operacional. Dois exemplos:
-
-- **🔧 Itachi** — agente de DevOps: provisiona e mantém infraestrutura como código (Terraform), gerencia recursos AWS, containers Docker, proxy reverso (Caddy) e pipelines de CI/CD.
-- **📋 Yami** — agente de produtividade: organiza backlog de tarefas e executa demandas táticas do dia a dia da operação.
-
-É uma forma prática de unir a base técnica de DevOps/Cloud com engenharia de automação orientada a IA, aplicada em produção no meu próprio negócio.
-
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge)
-![Automação](https://img.shields.io/badge/AI_Automation-4B0082?style=for-the-badge)
-
----
-
 ## 💻 Tecnologias que utilizo
 
 ### 🌐 Cloud & DevOps
