@@ -33,7 +33,7 @@ Projeto pessoal: orquestro um sistema multi-agente rodando sobre Claude Code, ca
 - **🔧 Itachi — Agente de DevOps (Arquiteto + Engenheiro)**: opera em dois modos. Como *Architect*, planeja e analisa antes de agir — desenha o plano de infraestrutura (Terraform, AWS) e só avança com aprovação explícita. Como *Engineer*, executa o plano com disciplina (`fmt`, `validate`, `plan`, `apply`), cobrindo Docker, Caddy, Kubernetes e pipelines de CI/CD.
 - **📋 Yami — Agente de Produtividade Pessoal**: organiza backlog de tarefas, ideias soltas e prioridades do dia a dia, transformando pedidos vagos em checklists e artefatos executáveis.
 
-É uma forma prática de unir a base técnica de DevOps/Cloud com engenharia de automação orientada a IA — arquitetura de agentes, definição de papéis, disciplina de aprovação antes de ação em infraestrutura real.
+É uma forma prática de unir a base técnica de DevOps/Cloud com engenharia de automação orientada a IA e arquitetura de agentes, definição de papéis, disciplina de aprovação antes de ação em infraestrutura real.
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge)
 ![Automação](https://img.shields.io/badge/AI_Automation-4B0082?style=for-the-badge)
